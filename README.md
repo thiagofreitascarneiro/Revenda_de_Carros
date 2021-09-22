@@ -2,7 +2,3 @@
 >criando um banco de dados de uma empresa revendedora de carros com Django.
 
 
-- Manga
-    - Uva
-    - Vinho
-    - Bob
